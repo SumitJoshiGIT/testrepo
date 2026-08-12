@@ -8,3 +8,4 @@
 - note 5: token-schema
 - note 6: store-graph
 - note 7: worker-client
+- update index-client
